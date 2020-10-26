@@ -61,3 +61,5 @@ print (sen[-1])
 word = "임호영은 바보입니다"
 print (word[:5] + "천재" + word[-3:])
 # [-3:] <= [A:B] A~B : //// print (word[:-3]) = 임호영은 바보 //// print (word[-3:]) = 입니다 ////
+
+print (a + b)
